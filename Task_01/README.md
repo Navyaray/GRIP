@@ -1,8 +1,8 @@
 # Task-1
 
-_Prediction using Supervised ML
+Prediction using Supervised ML
 
-_(Level - Beginner)
+(Level - Beginner)
 
 ●  Predict the percentage of an student based on the no. of study hours.
 
